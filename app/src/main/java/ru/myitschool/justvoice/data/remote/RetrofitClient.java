@@ -19,7 +19,7 @@ import ru.myitschool.justvoice.data.remote.dto.Token;
 
 public class RetrofitClient {
 
-    private static final String BASE_URL = "http://192.168.3.149:8000/";
+    private static final String BASE_URL = "http://185.221.214.105:8000/";
     private static final String PREFS_NAME = "auth_prefs";
     private static final String TOKEN_KEY = "access_token";
     private static final String REFRESH_TOKEN_KEY = "refresh_token";
