@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JustVoice</string>
+    <string name="my_transcriptions">JustVoice</string>
+    <string name="message_empty">No transcriptions yet.\nTap the button below to record.</string>
+    <string name="ready_to_record">Ready to record</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password (min 10 characters)</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="my_profile">My Profile</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+    <string name="search">Поиск по названию, теме...</string>
+    <string name="request">Введите запрос для поиска\nпо транскрипциям</string>
+</resources>
